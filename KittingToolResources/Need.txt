@@ -1,0 +1,8 @@
+Need pictures for:
+	223-000G30-190RC,
+	223-000G35-110RC,
+	223-001G62-040RC, 
+	223-088245-010RC,
+	223-090821-021RC
+Try to take them all in similar light, environment, and especially aspect ratio.
+Some are low quality and have aspect ratios that don't work well with the window. Replace them?

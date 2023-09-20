@@ -1,0 +1,36 @@
+v1.4 changelog:
+Added overwrite for output directory.
+Added noting functionality, both for individual components and for the whole form.
+Added various user info prompts for ease of use.
+Added a suffix to the file name if a file with the same name already exists.
+Fixed bug with files saving even after cancelling the process.
+Various general improvements for maintainability.
+
+v1.5 changelog:
+Added a function to show pictures of selected/scanned components.
+Further reduced 'magic numbers' to improve readability.
+Added more comments for maintainability.
+Added a function to handle 'enter' being pressed on the sourcePathTextBox.
+Improved error log system.
+Added messagebox to notify users their file has been saved correctly.
+Changed TooManyError to avoid accidental skipping.
+Adjusted listbox sizings.
+Rearranged functions to be more similar to the actual flow of the program.
+Added a counter for how many items have been fully packed.
+Added a JSON config file to allow for target directories to be changed live.
+
+v1.6 changelog:
+Changed file system to contain all resources in three folders within a resources folder.
+Changed image function to use new file system.
+Renamed function names for easier maintenance.
+Changed how data listview columns are generated.
+Changed how changes are displayed.
+Editing checklists now overwrites the outdated file.
+
+v1.6.1 changelog:
+Changed how file names are generated.
+Changed how DeleteOldFile identifies files to overwrite.
+
+v1.6.2 changelog:
+Added a checkbox to note if the kit is complete or incomplete. 
+Changed file name generator to display completion status.

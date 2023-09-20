@@ -1,0 +1,9 @@
+{
+  "Directories": [
+    {
+	  "_comment": "Directories require two backlashes per folder.",
+      "defaultSourceDirectory": "S:\\Dispatch\\KittingToolResources\\",
+      "defaultDestinationDirectory": "S:\\Dispatch\\KittingToolResources\\SavedChecklists\\"
+    }
+  ]
+}
