@@ -42,3 +42,6 @@ Rearranged visual elements.
 Made errorListView 'Errors' header only appear when errors are displayed.
 Added new sounds.
 Adjusted how listview columns resize.
+
+v1.7.1 changelog:
+Fixed several crashes caused by missing sound files being played.
