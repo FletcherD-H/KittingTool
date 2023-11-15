@@ -5,4 +5,6 @@ Need pictures for:
 	223-088245-010RC,
 	223-090821-021RC
 Try to take them all in similar light, environment, and especially aspect ratio.
-Some are low quality and have aspect ratios that don't work well with the window. Replace them?
+
+I've set each template sheet's print settings to landcape 80% scale.
+This is so that every row is included, and all columns but 'Changes' are printed.

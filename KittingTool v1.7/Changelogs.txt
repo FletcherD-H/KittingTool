@@ -34,3 +34,11 @@ Changed how DeleteOldFile identifies files to overwrite.
 v1.6.2 changelog:
 Added a checkbox to note if the kit is complete or incomplete. 
 Changed file name generator to display completion status.
+
+v1.7 changelog:
+Added a function to count the total number of items in the opened kit and display it.
+Made visual elements adjust to the size of the window.
+Rearranged visual elements.
+Made errorListView 'Errors' header only appear when errors are displayed.
+Added new sounds.
+Adjusted how listview columns resize.
