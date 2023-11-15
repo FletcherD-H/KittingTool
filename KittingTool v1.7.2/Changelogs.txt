@@ -45,3 +45,6 @@ Adjusted how listview columns resize.
 
 v1.7.1 changelog:
 Fixed several crashes caused by missing sound files being played.
+
+v1.7.2 changelog:
+Fixed a crash caused by JSON values not being found.
