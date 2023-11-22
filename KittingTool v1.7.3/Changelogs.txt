@@ -51,3 +51,4 @@ Fixed a crash caused by JSON values not being found.
 
 v1.7.3 changelog:
 Eliminated the mysterious permanent temporary file in SourceChecklists.
+Replaced the default icon with a Barric icon.
